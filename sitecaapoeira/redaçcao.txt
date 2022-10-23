@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Maculelê e Samba de Roda</title>
+    
+</head>
+<body>
+    <header id="titulopp">
+            <h1 id="titpp">Samba e Maculelê No Espaço Cutural</h1>
+    </header>
+
+    <main id="contpp">
+          <nav id="navpp">
+            <a href="prjt.html" rel="next" target="_blank">Sobre o projeto</a>
+            <a href="lider.html" rel="next" target="_blank">Líder</a>
+            <a href="ftos.html" rel="nest" target="_blank">Fotos do evento</a> 
+            <a href="vdeos.html" rel="next" target="_blank">Vídeos</a>
+        </nav>
+
+        <article id="artpp">
+                <section id="maculele">
+                    <p>
+                        <h2>Hora do Maculelê.</h2>
+                        Foi no compasso de uma base que um dia foi uma luta de povos nativos do Brasil, que a Contra Mestre <strong> AninhaSmufet</strong>, bolou uma coreografia fazendo todos os participantes se envolverem com os bastões e muita ginga, molejo ao som do atabaque. Instrumento este que, por hora, marcou um ritmo nas mãos dos Contra Mestre Cláudio, Contra Mestre Anjo, Professor Bonner e um visitante do grupo Capoeira Brasil, que  levou os capoeiristas não só no tocar do instrumento, mas com canções do próprio ritmo do <a href="https://www.historia-brasil.com/bahia/maculele.htm" target="_blank" rel="extenal">Maculelê</a>.
+                        Assim a ministrante do encontro sobre o tema Maculelê a Smufet, soube envolver cada uma fazendo com que todos os presentes deixassem a timidez de lado e participassem da roda, o Mestre Macaco(Fabrac), participou ativo em vários momentos com muita energia. O Contra Mestre Tody, tirou um leg de passos com muitas variações e muita energia e assim foi uma sexta de capoeira positiva.
+                    </p>
+                    <img id="capamaculele" src="capp/maculele.jpg" alt="momento_do_maculele" width="450px" >
+
+                </section>
+
+                <section id="samba">
+                    <h2>Samba de Roda.</h2>
+                        <p>A aula foi ministrado pelo Contra <strong>Mestre Anjo</strong>(Fundação Arte Brasil Capoeira). 
+                            O ministrante tratou de ser bem básico em relação à aula, pois segundo o mesmo até ele é um pouco afastado do estilo, citando o nome de um outro integrante do grupo(FABRAC). O Contra Metres Fran, para trata melhor da coreografia do <cite><a href="https://www.todamateria.com.br/samba-de-roda/#:~:text=O%20samba%20de%20roda%20surgiu,aos%20orix%C3%A1s%2C%20entidades%20espirituais%20africanas." target="_blank" rel="extenal">samba</a></cite>, pois o Contra Mestre Fran é um professor de dança em sua comunidade.
+                            A pesar de ter sido bem básico como alega o próprio ministrante, o mesmo tratou a aula toda em cima de uma música que casou um axé nos participantes que surpreendeu a todos.
+                            O encontro foi muito bacana e envolvente.</p>
+                        <img id="capasamba" src="capp/c.anjo.jpg" alt="graduados_do_grupo" width="450px" > 
+                    </section>
+        </article>
+    </main>
+    <footer>
+        <span>Copyright &copy; | RJ_Coelho</span>
+    </footer>
+    
+
+</body>
+</html>
+
+
+
+
+PG_Projeto
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Espaço Cutural</title>
+    
+</head>
+<body>
+    <main>
+        <div id="titulo">
+            <h1>Espaço Cutural antigo Stande de Vendas</h1>
+        </div>
+
+        <nav>
+            <nav id="navpp">
+            <a href="index.html" rel="prv">Página Inicial</a>
+            <a href="lider.html" rel="next">Líder</a>
+            <a href="ftos.html" rel="nest">Fotos do evento</a> 
+            <a href="vdeos.html" rel="next">Vídeos</a>
+        </nav>
+
+        <article>
+                <section id="espaço">
+                    <p>
+                        <h2>Espaço Cutural.</h2>
+                        Localizado na rua B, com a Monte Líbano, n.º 422, no Bairro Mudubim, em Fortaleza-Ceará. O Espaço Cultural(ECMF), é uma das sedes do grupo Fundação Arte Brasil Capoeira do Saudoso Mestre Pedro, o Pedrinho.
+                        Hoje na liderança do espaço o Contra Mestre Índio, esta sempre promovendo encontro com incentivos de seus alunos, alunos estes que carregam a mesma linha de pensamento do Contra Mestre Índio. 
+                        Só este ano no espaço Cultural já promoveu alguns encontros bem bacanas. Como a importância da mulher na capoeira, promovido pelo, as Flores de Dandara, núcleo feminino do (Fundação Arte Brasil). Quem cumprir um calendário anual de bons evento na Cidade de Fortaleza,
+                        A capoeira acontece três vezes por semana: segundas, quartas e sextas-feiras. Estendo para alguns sábados ou domingos para eventos da capoeira. 
+                    </p>
+                    <hr>
+                    <a href="https://www.facebook.com/cavalcante324/">facebook do Espaço</a><br>
+                    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D604357074725863%26set%3Da.604357034725867&show_text=true&width=500" width="500" height="231" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                 </section>
+
+                
+        </article>
+    </main>
+    <footer>
+        <span>Copyright &copy; | RJ_Coelho</span>
+    </footer>
+    
+
+</body>
+</html>
+
+PG_lider
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linderança do Espaço</title>
+    
+</head>
+<body>
+    <main>
+        <div id="titulo">
+            <h1>Espaço Cutural antigo Stande de Vendas</h1>
+        </div>
+
+        <nav>
+            <a href="index.html" rel="prv">Página Inicial</a>
+            <a href="prjt.html" rel="prv">Sobre o Projeto</a>
+            <a href="ftos.html" rel="prv">Fotos do evento</a> 
+            <a href="vdeos.html" rel="prv">Vídeos</a>
+        </nav>
+
+        <article>
+                <section id="espaço">
+                   <h2>O Líder do Espaço da Capoeira</h2>
+                         <p>
+                            O Contra Mestre Índio, iniciou no projeto com a capoeira após a saindo do Contra Mestre Tody, por motivos de trabalho. Isso a mais ou menos há 5 anos, sempre motivado em movimenta o espaço com bons momentos dentro do seu tempo o Contra Mestre Índio, tentar sempre após um dia longo de trabalho como representante comercial, corre para o espaço e promove as suas aulas, que no momento esta sendo trabalhada no ritmo de São Bento Grande de Angola. Ritmo este sendo preciso de muita atenção, pois nele é exigido, destreza nos seus movimentos e tem ouvidos bem afiados. Apesar de em seu momento de vida esta morando longe do espaço onde o CM. Índio, ministrar as suas aluas o mesmo não deixar de se fazer presente, pois segundo ele os alunos do espaço o motiva muito e não fazem corpo mole na contribuição dos treinos e em sua ausência não faltam e seguem o plano de aula da semana.
+                         </p>
+                    <hr>
+                    <div id="indio">
+                        <img src="indio/IMG-8.jpg" alt="cm.fran,cm.indio e cm.claudio">
+                        <p><h3>Três Contra Mestre.</h3> 
+                            <strong>Fran, Índio e Claudio</strong></p>
+                    </div>
+                 </section>
+
+                
+        </article>
+    </main>
+    <footer>
+        <span>Copyright &copy; | RJ_Coelho</span>
+    </footer>
+    
+
+</body>
+</html>
+
+IMG_Eventos
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Imagens do Evento</title>
+    
+</head>
+<body>
+    <header>
+        <h1>Momentos do Evento</h1>
+    </header>
+        <nav>
+            <a href="index.html" rel="prv">Página Inicial</a>
+            <a href="prjt.html" rel="prv">Sobre o Projeto</a>
+            <a href="lider.html" rel="prv">Líder do Espaço</a> 
+            <a href="videos.html" rel="next">Vídeos</a>
+        </nav>
+<body>
+    <header>
+        <h2>Imagens</h2>
+    </header>
+    <main>
+        <div class="gallery-container">
+            <a href="img_atualizadas/cp_samba.png" class="gallery-items">
+                <img src="img_atualizadas/cp_samba.png" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-1.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-1.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-100.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-100.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-101.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-101.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-113.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-113.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-116.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-116.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-2.png" class="gallery-items">
+                <img src="img_atualizadas/IMG-2.png" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-20221020-WA0100.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-20221020-WA0100.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-20221020-WA0100.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-20221020-WA0100.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-20221020-WA0101.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-20221020-WA0101.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-20221020-WA0106.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-20221020-WA0106.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-20221020-WA0107.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-20221020-WA0107.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-20221020-WA0108.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-20221020-WA0108.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-20221020-WA0113.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-20221020-WA0113.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-20221020-WA0114.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-20221020-WA0114.jpg" alt="#">
+            </a>
+            <a href="img_atualizadas/IMG-20221021-WA0074.jpg" class="gallery-items">
+                <img src="img_atualizadas/IMG-20221021-WA0074.jpg" alt="#">
+            </a>
+        </div>        
+    </main>
+    <footer>
+        <span>Copyright &copy; | RJ_Coelho</span>
+    </footer>
+</body>
+</html>
+
+VIDEOS_EV
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos dos momentos</title>
+    
+</head>
+<body>
+    <main>
+        <div id="videos">
+            <h1>Momento em Vídeos</h1>
+        </div>
+        <nav>
+            <a href="index.html" rel="prv">Página Inicial</a>
+            <a href="sprojeto.html" rel="prv">Sobre o projeto</a>
+            <a href="lder.html" rel="prv">Líder</a>
+            <a href="ftos.html" rel="prv">Fotos do evento</a> 
+            <a href="vdeos.html" rel="prv">Imagens</a>
+        </nav>
+
+        <article>
+            <di class="maculele">
+                
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/N8K-xyF3El8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </di>
+            <br>
+            
+            <d id="samba">
+    
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ruP3xGrJho4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+            </d>
+            <br>
+
+            <di class="maculele">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/doFwVG8XBaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </di>
+
+        </article>
+    </main>
+    <footer>
+        <span>Copyright &copy; | RJ_Coelho</span>
+    </footer>
+    
+
+</body>
+</html>
